@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender">
+        <item>Mężczyzna</item>
+        <item>Kobieta</item>
+    </string-array>
+
+    <string-array name="questions">
+        <item>Dlaczego w nazwie wirusa występuje część "korona"</item>
+        <item>Od jakiego zwierzęcia prawdopodobnie pochodzi Koronawirus</item>
+        <item>Jak brzmi poprawna nazwa nowego koronawirusa</item>
+        <item>Ile powinno trwać właściwe mycie rąk</item>
+        <item>Jakie objawy daje zakażenie koronawirusem?</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>
+            <string-array name="question1">
+                <item>Pierwszym_zakażonym_był_król.</item>
+                <item>Wyodrębniono_go_z_rośliny_-_wilczomlecza,_czyli_korony_cierniowej.</item>
+                <item>cząsteczki_wirusa_są_otoczone_strukturą_w_formie_pierścienia.</item>
+                <item>żadne_z_powyższych.</item>
+                <item>3</item>
+            </string-array>
+        </item>
+        <item>
+        <string-array name="question2">
+            <item>Nietoperza.</item>
+            <item>Kota.</item>
+            <item>Psa.</item>
+            <item>Szczura.</item>
+            <item>1</item>
+        </string-array>
+        </item>
+        <item>
+        <string-array name="question3">
+            <item>nCoV-2019.</item>
+            <item>SARS-CoV-2.</item>
+            <item>Covid-19.</item>
+            <item>SARS-Covid-19.</item>
+            <item>2</item>
+        </string-array>
+        </item>
+        <item>
+        <string-array name="question4">
+            <item>10_sekund.</item>
+            <item>2_minuty.</item>
+            <item>tyle,_co_nasza_ulubiona_piosenka.</item>
+            <item>20_sekund.</item>
+            <item>4</item>
+        </string-array>
+        </item>
+        <item>
+        <string-array name="question5">
+            <item>ból_mięśni,_zatwardzenie,_gorączka.</item>
+            <item>krosty_na_ciele.</item>
+            <item>ból_brzucha,_biegunka.</item>
+            <item>kaszel,_duszności,_gorączka.</item>
+            <item>4</item>
+        </string-array>
+        </item>
+    </string-array>
+
+</resources>

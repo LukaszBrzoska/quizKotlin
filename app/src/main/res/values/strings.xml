@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+
+    <string name="weight">Waga</string>
+    <string name="height">Wzrost</string>
+    <string name="BMICalculate">Oblicz BMI</string>
+
+    <string name="wyglodzenie">Wyglodzenie</string>
+    <string name="wychudzenie">Wychudzenie</string>
+    <string name="niedowaga">Niedowaga</string>
+    <string name="pozadana_masa_ciala">Pożądana masa ciala</string>
+    <string name="nadwaga">Nadwaga</string>
+    <string name="otylosc_I_stopnia">otylosc I stopnia</string>
+    <string name="otylosc_II_stopnia">otylosc II stopnia</string>
+    <string name="otylosc_III_stopnia">otylosc III stopnia</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="bmi_nav">Kalkulator BMI</string>
+    <string name="quiz_nav">Quiz o Coronawirusie</string>
+    <string name="calories_nav">Oblicz potrzebne kalorie</string>
+    <string name="game_nav">Corona game</string>
+
+    <!-- String used for caloriesCalculator -->
+    <string name="weight_label">Waga</string>
+    <string name="height_label">Wzrost</string>
+    <string name="age_label">Wiek</string>
+    <string name="gender_label">Płeć</string>
+    <string name="result_label">Rezultat</string>
+    <string name="calculate_button">Policz kalorie</string>
+    <string name="start_quiz">Rozpocznij</string>
+    <string name="restartQuiz">Restart</string>
+    <string name="endQuiz">Koniec</string>
+
+</resources>
